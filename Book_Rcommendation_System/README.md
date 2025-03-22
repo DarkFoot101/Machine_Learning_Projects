@@ -1,12 +1,17 @@
 📚 Book Recommendation System
+
 🚀 Overview
+
 This is a Book Recommendation System built using Flask (backend framework), scikit-learn, and Python (Jupyter Notebook). It provides:
+
 1️⃣ Top 80 Books Based on Popularity Filtering & Indexing
+
 2️⃣ Personalized Book Recommendations Based on User Preferences
 
 The dataset is sourced from a Kaggle competition. The UI is designed with HTML, CSS (Bootstrap for automatic color selection), and Flask for backend integration.
 
 🛠️ Tech Stack
+
 Backend: Flask (Python Web Framework)
 
 Machine Learning: scikit-learn, Pandas, NumPy
@@ -32,14 +37,21 @@ The system uses collaborative filtering and content-based filtering to suggest b
 scikit-learn models are trained and saved using Pickle for efficient retrieval.
 
 3️⃣ Flask Backend & UI Integration
+
 Flask handles user requests, processes recommendations, and serves responses to the UI.
+
 The HTML frontend dynamically displays recommended books.
+
 CSS (Bootstrap) ensures an auto-adjusting color theme for an appealing interface.
 
 🎯 How to Run Locally
+
 🔹 Prerequisites
+
 Python 3.12.x, Jupyter Notebook
+
 Flask
+
 scikit-learn, Pandas, NumPy
 
 📌 Future Enhancements
