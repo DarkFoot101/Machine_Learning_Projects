@@ -1,4 +1,4 @@
-📚 Book Recommendation System
+📚 Book Recommendation System 
 
 🚀 Overview
 
@@ -55,6 +55,12 @@ Flask
 scikit-learn, Pandas, NumPy
 
 📌 Future Enhancements
+
 🔹 Implement Hybrid Filtering for better recommendations
+
 🔹 Add User Authentication & Reviews
+
 🔹 Improve UI/UX with more customization
+
+
+*DATASET* - [https://www.kaggle.com/datasets/arash...](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
