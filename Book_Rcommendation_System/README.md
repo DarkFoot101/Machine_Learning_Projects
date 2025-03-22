@@ -18,12 +18,17 @@ Frontend: HTML, CSS (Bootstrap for styling)
 Notebook: Jupyter Notebook (for development and testing)
 
 🔍 How It Works
+
 1️⃣ Data Processing & Popularity Filtering
+
 The dataset is preprocessed to filter the top 80 books based on popularity (ratings, reviews, or interactions).
+
 Indexing is applied to retrieve books efficiently.
 
 2️⃣ Personalized Recommendations
+
 The system uses collaborative filtering and content-based filtering to suggest books based on user preferences (e.g., past interactions, book genres)
+
 scikit-learn models are trained and saved using Pickle for efficient retrieval.
 
 3️⃣ Flask Backend & UI Integration
