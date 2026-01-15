@@ -59,6 +59,9 @@ The dataset used for training and evaluation is sourced from a **Kaggle competit
 - **Bootstrap** ensures a responsive layout with an automatically adjusting color theme.
 
 ---
+## Images : -
+![image](https://github.com/user-attachments/assets/30ceb1b0-c44c-4f41-a74d-662c91f9ec1c)
+---
 
 ## ▶️ How to Run Locally
 
