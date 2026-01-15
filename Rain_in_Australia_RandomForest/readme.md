@@ -57,6 +57,15 @@ The project focuses on **data preprocessing, feature engineering, and model opti
 - Achieved **88% accuracy** on validation data.
 
 ---
+
+## Images : 
+
+![image](https://github.com/user-attachments/assets/993640a4-da83-4e0b-b821-d2d0d3dd323a)
+
+![image](https://github.com/user-attachments/assets/00ec331f-af6b-4163-ab4b-83ad13a31c4d)
+
+---
+
 📌 Future Improvements
 
 Experiment with gradient boosting models
